@@ -10,3 +10,5 @@
 
 - react-native start e em outra aba do terminal react-native run-android
 
+
+Obs: Deverá ser clonado também o repositório do backend, desenvolvido em NodeJs-> git clone https://github.com/Thiagolourenco/Backend--Tindev.git
