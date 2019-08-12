@@ -4,7 +4,7 @@
 # Instalação
 - Deverá ter instalado o emulador do android ou IOS.
 
-- git clone
+- git clone https://github.com/Thiagolourenco/AppMobile---Tindev.git
 
 - npm install
 
